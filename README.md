@@ -12,3 +12,10 @@
 People who want to donate and help people.</li>
 <li>People who want to receive help like money and learning materials.</li>
 </ul>
+<h5>Website features</h5>
+<p>People can use this website to donate and receive money and learning materials through 2 ways, face-to-face or online. Face to face is a way that increases people's trust towards the website. Therefore, people would want to donate or help people through this way.</p>
+<p>Online or virtual ways are also options for the people who want to help. If they are comfortable and have trust in this website, they can choose to do online payment or mailing of learning materials. This is a more convenient way for them to help. Therefore, it is important that the website.</p>
+<h3>Where did i get my ideas or inspirations from?<h3>
+    Charity websites, newspapers or other leaflets containing information about people who are in need of money, learning materials and other needs.
+    Carousell.
+    
