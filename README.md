@@ -32,10 +32,11 @@ As a user who wants to help the people through this website, the website can pro
 <p>Feature 6: The people who are helping the people can save the people's posts in "People you are helping" to remember if they need to meet up or deliver things.</p>
 <p>Feature 7: For people who are receiving the help, they would get notifications in "Message received" if they are people who have agreed to help them by mailing or by meeting up with them. For meet ups, they would need to give their consent to continue with the meet up. They have to input a 'i can meet up/sorry i can't'. If 'sorry i can't' they can send back a message of a preferred time of meeting up with them.</p>
 <h3>Technologies used<h3>
-<ul>
+<ul><h5>
 <li>Adobe XD</li>
 <p>Get Started with Adobe XD | Adobe XD. (n.d.-b). Adobe. https://www.adobe.com/products/xd/learn/get-started.html</p>
-<p>I used Adobe XD for wireframe of my websites.</p>
+<p>I used Adobe XD for wireframe of my website.</p>
+<h5></ul>
 <h3>Credits<h3>
 <p>Free APA Citation Generator | Verified by Experts. (2022j, November 8). Scribbr. https://www.scribbr.com/citation/generator/apa/</p>
 <h4>Where did i get my ideas or inspirations from?<h4>
