@@ -31,7 +31,14 @@ As a user who wants to help the people through this website, the website can pro
 <p>If the person choose to help in delivery way, they will be send to a page for them to input the country where they are now at and there will be options of places where they can deliver the items to. After they selected, the full address of the place will be given at the end of the page. There will also be a message that says,"here is the address for you to deliver to. Thank you so much for your kindness. We will be grateful.Please also type your address at the bottom of the page so that we would know it is you." There will be a text for them to fill for their address.</p>
 <p>Feature 6: The people who are helping the people can save the people's posts in "People you are helping" to remember if they need to meet up or deliver things.</p>
 <p>Feature 7: For people who are receiving the help, they would get notifications in "Message received" if they are people who have agreed to help them by mailing or by meeting up with them. For meet ups, they would need to give their consent to continue with the meet up. They have to input a 'i can meet up/sorry i can't'. If 'sorry i can't' they can send back a message of a preferred time of meeting up with them.</p>
-<h3>Where did i get my ideas or inspirations from?<h3>
+<h3>Technologies used<h3>
+<ul>
+<li>Adobe XD</li>
+<p>Get Started with Adobe XD | Adobe XD. (n.d.-b). Adobe. https://www.adobe.com/products/xd/learn/get-started.html</p>
+<p>I used Adobe XD for wireframe of my websites.</p>
+<h3>Credits<h3>
+<p>Free APA Citation Generator | Verified by Experts. (2022j, November 8). Scribbr. https://www.scribbr.com/citation/generator/apa/</p>
+<h4>Where did i get my ideas or inspirations from?<h4>
     Websites that require user's email address and user's passwords for the email address to create the user's accounts. For example, i think one of the websites are Super Auto Pets.
     Charity websites. Newspapers or other leaflets containing information about people who are in need of money, daily essentials, learning materials and other needs.
     Carousell.
