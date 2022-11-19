@@ -38,7 +38,7 @@ As a user who wants to help the people through this website, the website can pro
 <p>I used Adobe XD for wireframe of my website.</p>
 <h5></ul>
 <h3>Credits<h3>
-<p>Free APA Citation Generator | Verified by Experts. (2022j, November 8). Scribbr. https://www.scribbr.com/citation/generator/apa/</p>
+<p><h5>Free APA Citation Generator | Verified by Experts. (2022j, November 8). Scribbr. https://www.scribbr.com/citation/generator/apa/<h5></p>
 <h4>Where did i get my ideas or inspirations from?<h4>
     Websites that require user's email address and user's passwords for the email address to create the user's accounts. For example, i think one of the websites are Super Auto Pets.
     Charity websites. Newspapers or other leaflets containing information about people who are in need of money, daily essentials, learning materials and other needs.
