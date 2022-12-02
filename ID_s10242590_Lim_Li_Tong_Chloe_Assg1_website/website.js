@@ -35,4 +35,3 @@ let sign_in = document.createElement("h4")
 let sign_in_info = sign_in.innerHTML = "Sign in:"
 document.getElementById("content").appendChild(sign_in)
 sign_in.setAttribute("class", "sign_in")
-

@@ -665,6 +665,7 @@ template {
 }
 
 @media screen and (max-width:992px) {
+
     .box {
         padding: 70px;
         width: 160px;
@@ -849,7 +850,7 @@ template {
         background-color: orangered;
         position: absolute;
         left: 200px;
-        bottom: 530px;
+        bottom: 270px;
     }
 
     .about_you {
