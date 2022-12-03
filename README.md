@@ -50,6 +50,7 @@ As a user who wants to help the people through this website, the website can pro
     <p> I got my ideas for my website from websites that require user's email address and user's passwords for the email address to create the user's accounts. For example, i think one of the websites are Super Auto Pets.
     I got my ideas for my website from charity websites. 
     I got my ideas for my website from Newspapers or other leaflets containing information about people who are in need of money, daily essentials, learning materials and others.
+    I got my ideas for my website from instagram app or website. 
     I got my ideas for my website from Carousell app and website. 
     I got the ideas about the icons or pictures for the functions or the features of the website from McDonald's and Carousell mobile or phone app.</p> 
     
