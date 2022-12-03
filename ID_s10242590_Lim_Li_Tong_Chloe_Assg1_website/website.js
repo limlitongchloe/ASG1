@@ -35,3 +35,34 @@ let sign_in = document.createElement("h4")
 let sign_in_info = sign_in.innerHTML = "Sign in:"
 document.getElementById("content").appendChild(sign_in)
 sign_in.setAttribute("class", "sign_in")
+
+
+
+
+let sign_in_cw = document.createElement("form")
+sign_in_cw.setAttribute("class", "sign_in")
+document.getElementById("sign_in_havecw").appendChild(sign_in_cw)
+sign_in_cw.setAttribute("action", "havecw_page.html")
+sign_in_cw.setAttribute("method", "post")
+let buttoncw = document.createElement("button")
+buttoncw.setAttribute("id", "sign_in_buttons_cw")
+sign_in_cw.appendChild(buttoncw)
+let cw_button_info = document.createElement("h4")
+let cw_info = cw_button_info.innerHTML = "Have CW account"
+buttoncw.appendChild(cw_button_info)
+
+let sign_in_nocw = document.createElement("form")
+sign_in_nocw.setAttribute("class", "sign_in")
+document.getElementById("sign_in_donthavecw").appendChild(sign_in_nocw)
+sign_in_nocw.setAttribute("class", "sign_in")
+sign_in_nocw.setAttribute("action", "donthavecw_page.html")
+sign_in_nocw.setAttribute("method", "post")
+let buttonnocw = document.createElement("button")
+buttonnocw.setAttribute("id", "sign_in_buttons_no_cw")
+sign_in_nocw.appendChild(buttonnocw)
+let no_cw_button_info = document.createElement("h4")
+let nocw_info = no_cw_button_info.innerHTML = "Don't Have CW account"
+buttonnocw.appendChild(no_cw_button_info)
+
+
+
